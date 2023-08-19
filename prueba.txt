@@ -1,1 +1,1 @@
-El archivo Prueba.css es un archivo de pruebas.El contenido del archivo sufrirá algunos cambios.
+El archivo Prueba.txt es un archivo de pruebas.El contenido del archivo sufrirá algunos cambios.
